@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Minnesota
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,15 +27,18 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Graduate Law Minor
+    institution: University of Minnesota Law School
+    year: 2022 (expected)
+  - course: Ph.D. in Mass Communication
+    institution: University of Minnesota
+    year: 2022 (expected)
+  - course: M.A. in Media Studies
+    institution: University of Wisconsin-Milwaukee
+    year: 2013
+  - course: B.A. in Journalism and Political Science
+    institution: University of Wisconsin-Milwaukee
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
