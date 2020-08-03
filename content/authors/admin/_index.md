@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Role of law and journalism in facilitating public access to information
+- Empirical, theoretical, and normative questions about the role of information, law, and the press on society and democratic governance
+- Sociology of law and journalism
 
 education:
   courses:
@@ -73,6 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jonathan Anderson is a third-year Ph.D. student in the Hubbard School of Journalism and Mass Communication at the University of Minnesota. His research principally investigates the role of law and journalism in facilitating public access to information. On the law side, much of his research focuses on legal rights of access to government-held records and proceedings, such as the federal Freedom of Information Act and state public records and open meetings laws. On the journalism side, his research examines the availability and quality of news. Both research tracks converge on empirical, theoretical, and normative questions about the role of information, law, and the press on society and democratic governance. Jonathan’s research has been published in the Journal of Media Law and Ethics, the Journal of College and University Law, and the Mitchell Hamline Law Review. He has also co-authored a white paper about media consumption and subscriptions for the News Media Alliance, in addition to a forthcoming entry in the Encyclopedia of Journalism. He has presented research at the following conferences: International Communication Association, Association for Education in Journalism and Mass Communication, Association for Education in Journalism and Mass Communication Southeast Colloquium, Popular Culture Association, National Communication Association, and the National Freedom of Information Coalition FOI Summit. Jonathan is presently a Silha Research Assistant at the Silha Center for the Study of Media Ethics and Law and a Student Fellow at the Minnesota Journalism Center, both in the Hubbard School. He has taught Media in a Changing World (JOUR 1001) at the University of Minnesota and Media Law (COMM 3800) at Marquette University. Before coming to Minnesota, Jonathan was a journalist and worked at several newspapers and television stations.
